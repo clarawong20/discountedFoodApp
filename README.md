@@ -1,0 +1,3 @@
+Hi! Welcome to the Discounted Food App repository. The goal of this app is to provide a medium where restaurant owners can post their end-of-the-day discounted food promotions for customers to find. The goal of this app is to: 1. Reduce food waste: more people will know about and therefore buy food that would otherwise be thrown away at the end of the day 2. Help people find great food for even better deals (especially needed in this economy!) 3. Help restaurants get their name out there (no better time to try a new place than when it's discounted!)
+
+This app was made by Clara Wong and Sophie Wong, using React Native and a lot of love <3.
