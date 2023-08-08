@@ -1,10 +1,7 @@
-import * as React from 'react';
-import MainContainer from './navigation/mainContainer';
+import * as React from "react";
+import {View, Text} from 'react-native';
+import Home from "./screens/Home";
 
-function App() {
-  return (
-    <MainContainer/>
-  );
+export default function App() {
+  return <Home />;
 }
-
-export default App;
